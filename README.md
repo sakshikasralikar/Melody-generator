@@ -1,5 +1,5 @@
 # Melody-generator
-An attemot to make a melody generator using LSTM and RNN.
+An attempt to make a melody generator using LSTM and RNN.
 Basic idea here is to melody as a time-series representation, so now melody generation problem is equivalent to time-series prediction problem
 So we have to convert notes to a vocabulary of accepted musical events like notes of different pitches and rests of given time interval
 Training:
