@@ -23,3 +23,6 @@ Lstms are good at capturing these long term temporal dependencies.
 
 Dataset: 
 ESAC dataset : Essen Associative Code and folksong database
+
+
+Melody1 is one such melody generated using this model.
